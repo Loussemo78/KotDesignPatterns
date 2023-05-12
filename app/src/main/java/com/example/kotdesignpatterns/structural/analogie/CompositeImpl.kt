@@ -1,4 +1,7 @@
 package com.example.kotdesignpatterns.structural.analogie
+//Le pattern "Composite" est inspiré de la manière dont les cellules du corps humain s'organisent pour former des tissus et des organes.
+// Chaque cellule individuelle a une fonction spécifique, mais lorsqu'elles sont combinées, elles forment des structures plus complexes et plus efficaces.
+
 
 // Interface représentant une composante (cellule, tissu ou organe)
 interface Composante {
